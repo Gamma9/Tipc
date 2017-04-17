@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Buzzed</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_add_favourite">Add to Favourites</string>
+    <string name="action_pay_now">Pay Now</string>
+    <string name="backdrop_title">BUZZED</string>
+    <string name="backdrop_subtitle">Where there are no such things as lines</string>
+    <string name="Bogies_description"> Bogies Bar is a bar in Baton Rouge close to Louisana State University that tends to be a major hot spot for college students in the Baton Rouge Metroplex.  </string>
+    <string name="JLs_description"> </string>
+    <string name="The_House_description"> </string>
+    <string name="Freds_description"> </string>
+    <string name="The_Bandit_description"> </string>
+    <string name="City_Bar_description"> </string>
+</resources>
